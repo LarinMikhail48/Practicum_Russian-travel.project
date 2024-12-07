@@ -1,0 +1,5 @@
+.header__lang-box {
+  display: flex;
+  padding-top: 18px;
+  column-gap: 18px;
+}
