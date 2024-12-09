@@ -1,0 +1,8 @@
+.place__link {
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.1;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  color: #FFFFFF;
+}
