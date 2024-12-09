@@ -5,3 +5,7 @@
   line-height: 1.1;
   text-align: right;
 }
+
+.header__lang-link:hover {
+  cursor: url(../../../images/Cursor/Pointer.png), pointer;
+}

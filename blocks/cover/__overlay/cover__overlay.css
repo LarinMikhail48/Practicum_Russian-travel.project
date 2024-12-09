@@ -6,4 +6,9 @@
   justify-content: center;
   align-items: center;
   background-color: rgba(42, 44, 47, 0.3);
+  transition: background-color 0.5s;
+}
+
+.cover__overlay:hover {
+  background-color: rgba(42, 44, 47, 0.8);
 }
