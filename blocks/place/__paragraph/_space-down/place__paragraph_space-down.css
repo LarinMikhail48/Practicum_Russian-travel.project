@@ -1,3 +1,15 @@
 .place__paragraph_space-down {
   margin-bottom: 26px;
 }
+
+@media screen and (max-width: 1024px) {
+  .place__paragraph_space-down {
+    margin-bottom: 27px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place__paragraph_space-down {
+    margin-bottom: 25px;
+  }
+}

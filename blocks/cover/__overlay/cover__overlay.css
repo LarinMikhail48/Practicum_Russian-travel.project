@@ -7,6 +7,7 @@
   align-items: center;
   background-color: rgba(42, 44, 47, 0.3);
   transition: background-color 0.5s;
+  position: absolute;
 }
 
 .cover__overlay:hover {

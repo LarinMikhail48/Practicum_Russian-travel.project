@@ -10,3 +10,11 @@
 .footer__link:hover {
   cursor: url(../../../images/Cursor/Pointer.png), pointer;
 }
+
+@media screen and (max-width: 320px) {
+  .footer__link {
+    margin-right: 0;
+    font-size: 24px;
+    line-height: 1;
+  }
+}
